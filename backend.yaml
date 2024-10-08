@@ -1,4 +1,4 @@
-- name: backend server configuration
+- name: configure backend server
   hosts: backend
   become: yes
   vars_files:
